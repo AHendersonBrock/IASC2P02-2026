@@ -31,7 +31,15 @@ renderer.setSize(window.innerWidth, window.innerHeight)
 const Material = new THREE.MeshNormalMaterial();
 const octahedronGeometry = new THREE.OctahedronGeometry();
 const octahedron = new THREE.Mesh( octahedronGeometry, Material );
+const octahedron02 = new THREE.Mesh( octahedronGeometry, Material );
+const octahedron03 = new THREE.Mesh( octahedronGeometry, Material );
+const octahedron04 = new THREE.Mesh( octahedronGeometry, Material );
+const octahedron05 = new THREE.Mesh( octahedronGeometry, Material );
 scene.add(octahedron);
+scene.add(octahedron02);
+scene.add(octahedron03);
+scene.add(octahedron04);
+scene.add(octahedron05);
 
 
 /********************
@@ -48,7 +56,10 @@ const animation = () =>
     const elapsedTime = clock.getElapsedTime()
     // Animate Octahedron
     octahedron.position.x = Math.sin(elapsedTime)
-    octahedron.position.y = Math.sin(elapsedTime)
+    octahedron02.position.y = Math.sin(elapsedTime)
+    octahedron03.position.z = Math.sin(elapsedTime)
+    octahedron04.position.y = Math.sin(-elapsedTime)
+    octahedron05.position.z = Math.sin(-elapsedTime)
 
     // Renderer
     renderer.render(scene, camera)
