@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+
+<head>
+  <title>Assignment 1</title>
+
+  <!-- css -->
+  <link rel="stylesheet" href="style.css">
+
+  <!-- Three.js Importmap -->
+  <script type="importmap">
+  {
+    "imports": {
+      "three": "https://ga.jspm.io/npm:three@0.182.0/build/three.module.js",
+      "OrbitControls": "https://ga.jspm.io/npm:three@0.182.0/examples/jsm/controls/OrbitControls.js",
+      "lil-gui": "https://ga.jspm.io/npm:lil-gui@0.21.0/dist/lil-gui.esm.js"
+    }
+  }
+  </script>
+
+  <!-- Three.js scene -->
+  <script src="script.js" type="module"></script>
+
+</head>
+
+<body>
+  <div class="flexbox">
+    <!--ESSAY-->
+    <div class="essay">
+      <h2>1. Flatness</h2>
+      <p><span class="clickable", id="part-one">From inside the cave...</span></p>
+      
+      <p>First paragraph goes here. <span class="clickable", id="change-one">First change goes here.</span> <span class="clickable", id="change-two">Second change goes here.</span></p>
+
+      <p>Second paragraph goes here.
+
+      <h2>2. Seeing Double</h2>
+      <p><span class="clickable", id="part-two">From outside the cave...</span></p>
+
+      <p>Third paragraph goes here. <span class="clickable", id="change-three">Third change goes here.</span> <span class="clickable", id="change-four">Fourth change goes here.</span></p>
+
+      <p>Fourth paragraph goes here.
+    
+    </div>
+
+    <!--SCENE-->
+    <div class="scene">
+      <canvas class="webgl"></canvas>
+    </div>
+  </div>
+</body>
