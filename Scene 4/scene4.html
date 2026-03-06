@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Data Viz</title>
+    <link rel="stylesheet" href="style.css">
+    <script type="importmap">
+            {
+                "imports": {
+        "three": "https://ga.jspm.io/npm:three@0.182.0/build/three.module.js",
+        "OrbitControls": "https://ga.jspm.io/npm:three@0.182.0/examples/jsm/controls/OrbitControls.js",
+        "lil-gui": "https://ga.jspm.io/npm:lil-gui@0.21.0/dist/lil-gui.esm.js",
+        "three/addons/": "https://threejs.org/examples/jsm/"
+        }
+            }
+        </script>
+    <script src="script.js" type="module"></script>
+</head>
+
+<body>
+    <h1>Data Viz</h1>
+    <div class="flex-container">
+    <h2 style="color:aqua">Cat </h2>
+    <h2 style="color:magenta">Dog </h2>
+    <h2 style="color:green">Catdog</h2>
+    </div>
+    <canvas class="webgl" data-engine="three.js r182" width="1432" height="774"
+        style="width:1432px; height:774px"></canvas>
+</body>
+
+</html>
