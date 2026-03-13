@@ -1,0 +1,1328 @@
+﻿-Intro to Downtime -
+
+
+So you’ve joined the Red Banners and you are looking for something to do in your free time between quests. Welcome to Downtime. Each week in between quests, your character can interact with Lake Solino to make gold, craft items, learn about the world, or train new skills. This document contains a list and description of the various activities you can do in downtime, some of which are influenced by the various buildings and facilities in Lake Solino. Generally, your week of downtime will fall into one of four categories: Jobs, Crafting, Research, or Training.
+
+
+Jobs. You can work a job in the town to gain gold and other benefits based on the job itself. The longer you work a job the more money you make and the better effects you get from that job. Jobs also provide you with extra proficiencies once you reach a level of competency in them.
+
+
+Crafting. Characters skilled with Artisan Tools can use their downtime to craft. This can be crafting everything from Magic Items, Potions, Poisons, Weapons, Armors, Gemstones and much more. Crafting requires proficiency in an associated tool and crafted items can be sold for a profit. Players can also learn new crafting recipes by using Intelligence based skills to learn about their crafts.
+
+
+Research. Research can be done to learn more things about your character, the world, monsters, and more. Researching comes with complications that can challenge your character while they attempt to learn new knowledge. Researching can unlock new quests, locate magical reagents, rare materials, or uncover secrets about your character.
+
+
+Training. Training allows your character to unlock new techniques, proficiencies, and abilities by training at various locations around Lake Solino. Tool, weapon, and language proficiencies can be gained by training in town and can be sped up with the assistance of other Red Banners. Some buildings allow for more advanced training such as unlocking powerful martial abilities at the Crimson Dojo, modifying spells at the University, or manifesting psionic powers at the Monastery. 
+
+
+Lots of activities in this document are influenced by the Specialty Facilities built in town. When something is changed, improved, or impacted by a building it will have a 🏫 icon beside it. Clicking the icon will bring you to that building in the Specialty Facilities document so you can read what has changed. 
+Other Documents
+	Specialty Facilities
+	Crafting Document
+	________________
+Downtime - 
+Each Character gains a downtime activity once per week (resetting on Mondays at 12:01 AM). Characters can make use of any ability that comes back on a long rest (or recharges at dawn) once, and any ability that comes back on a short rest once during this time. Regardless of going on a quest or not, you can make use of these abilities. This time can be used for resting, researching, training, crafting or learning new skills. If a character does nothing during the week that week is lost. 
+
+
+Additionally, characters have two 8 hour sections of free time that they may spend doing additional tasks. During this time, characters can do tasks that don’t require an entire week of downtime. Such tasks include writing spells in a spellbook, crafting scrolls, butchering meat, or working on crafting.
+
+
+For a full list of what can be done in downtime, see Summary of Downtime Activities.
+
+
+Making Checks in Downtime -
+When making checks in downtime you must declare any bonuses granted from proficiencies, ability scores, buildings, crafting tables, magic items, or consumables before you make the roll. Anything that adds Advantage or Disadvantage must be applied before the roll is made. Corrects or mistakes in the rolling obviously do not have to follow this rule. 
+
+
+If a bonus would always apply to your roll, such as a festival bonus, teaching, etc. but you rolled before it happened, you can apply it retroactively as long as it's in the same week.
+
+
+Work - 
+A character can spend their time working around town. To determine how much a character makes, consult the job chart for your wage die and what skill you add to the roll, then you roll each week you spend your downtime working that job. After working a job, your Wage Progression increases by 1, at certain thresholds displayed below your Tier of that job increases. 
+
+
+Tier
+	Progression Needed to Increase
+	1
+	1
+	2
+	2
+	3
+	3
+	4+
+	4
+	You make another die of gold per week equal to your Tier. After you reach Tier 3, you additionally roll 1d100 whenever working, and may have something special offered to you. Getting a promotion may also open new opportunities for your character. If you wish another way to work that is not detailed on the chart, GMs may add it upon request.
+
+
+You can view the d100 tables for each known job here: 
+Career d100 Tables
+
+
+Once you reach Tier 5 in your job, you automatically learn a new Weapon, Tool, or Language proficiency associated with your job. In addition, if you have Proficiency in the Associated Proficiency for your job, you double your bonuses added to the job.
+
+
+Once you are above tier 7 in your career, each additional tier grants you bonus +1 gp to your wage roll in addition to an additional wage die.
+
+
+Once you reach Tier 15 in your career, you gain a permanent buff to your downtime activities based on the job. 
+
+
+At Tier 30 you can no longer increase your job Tier but now roll 2 d100 effects each time you work the job. 
+Any effect that would increase your Wage Progression beyond just working the week, and you cannot progress your wage progression, roll 1 wage die and add +10. 
+
+
+T1-4 Wage Example: (Job Tier)d(Wage Dice) + Skill + Other wage bonuses)
+        Example: T3 General Laborer = 3d8 + 7 (Athletics)
+
+
+T5-6 Wage Example: (Job Tier)d(Wage Dice) + (Skill + Other wage bonuses)*2
+        Example: T5 General Laborer = 5d8 + (9 (Athletics) + 1 (Luckstone))*2
+
+
+T7+ Wage Example: (Job Tier)d(Wage Dice) + (Skill + Other wage bonuses + Tier-7)*2
+        Example: T8 General Laborer = 8d8 + (9 (Athletics) + 1 (Luckstone)+1(Tiers above 7))*2
+
+
+
+
+
+
+Job
+	Base Wage + Bonus Wage in GP
+	Expected D100 Results
+	T5 Prof
+	Associated Prof
+	T15 Bonus
+	Alchemist
+	1d8 + Alchemist Tools (WIS/INT)
+	Craft potions.
+	Alchemists or Herbalism
+	Alchemists
+	+1 to Alchemist tools checks in downtime.
+	Arcanist🏫
+	1d8 + Arcana + Spellcasting ability + highest spell slot
+	Use university and find spell scrolls.
+	Language or Calligraphers
+	An exotic language
+	+1 to Intelligence checks in downtime.
+	Artist🏫
+	1d8 + Calligraphers (DEX) or Painters (WIS)
+	Create scrolls, tattoos and art objects.
+	Calligraphers or Painters
+	Calligraphers or Painters
+	+1 to Calligraphers or Painters tools in downtime.
+	Barkeep
+	1d8 + Insight or Brewer’s Tools (CHA)
+	???
+	Brewers or Language
+	Brewers
+	+1 to Wisdom checks in downtime.
+	Carpentry
+	1d8 + Carpenter’s Tools (STR/DEX) or Woodcarver’s (STR/DEX)
+	Speed up construction.
+	Woodcarvers or Carpenters
+	Woodcarvers or Carpenters
+	+1 to Woodcarvers and Carpenters tools in downtime.
+	Cook🏫
+	1d8 + Cook’s Utensils or Brewers (WIS)
+	Meals and meats.
+	Cook's or Brewers
+	Cooks or Brewers
+	+1 to Cooks/Brewers tools checks in downtime.
+	Firearm Technician
+	1d8+ Gunsmithing Tools (INT/Dex)
+	Find or craft ammunition
+	Gunsmiths or Smiths
+	Gunsmiths
+	+1 to Gunsmiths tools checks in downtime
+	Forger 🐱‍👤
+	1d10 + Forgery Tools (INT/DEX) (Pursuing Forgery may incur unforeseen dangers.)
+	Manipulate documents and get discounts.
+	Forgery or Language
+	Forgery
+	10% lower cost to pay bail or lower heat.
+	Franchiser
+
+
+Taxi (Requires Horse and Buggy)/Landlord (Requires a house)
+	1d8 + Perception
+	Upgrade wages.
+	Land vehicles or language
+	Land vehicles
+	+5 gold per downtime.
+	Gambling🏫🐱‍👤
+	1d10 + Game Set (INT) or Sleight of Hand. (Pursuing Gambling may incur unforeseen dangers.)
+	More Gambling.
+	Gaming set
+	A gaming set
+	When you roll a natural 20 in downtime you also gain a bonus equal to your Prof bonus to that roll.
+	Gardening
+	1d8 + Survival or Nature
+	Find plants.
+	Herbalism or Poisoners
+	Herbalism
+	10% off purchasing plots or greenhouses
+	General Laborer
+	1d8 + Athletics
+	Speed up construction.
+	Carpenters or Masons
+	Carpenters or Masons
+	+1 to Strength checks in Downtime.
+	General Store
+	1d8 + Persuasion
+	Discounts on goods !!
+	Language
+	An exotic language
+	15% off Adventuring gear purchased in downtime.
+	Guard (Formerly known as Town Guard or Bouncer)
+	1d8 + Perception or Intimidation
+	Bonuses on upcoming quests.
+	Language or Unique Weapon
+	A Unique Weapon
+	+1 to Athletics, Acrobatic, and Perception checks in Downtime.
+	Instructor
+	1d8 + Persuasion   (STR/DEX)
+	Train at the Dojo and help others train.
+	A Unique weapon
+	A Unique weapon
+	The time it takes to learn a new weapon is reduced by 1 week, and the cost to learn weapons or train at the Dojo is halved.
+	Jeweler🏫
+	1d8 + Jeweler’s Tools (WIS/INT)
+	Gain and craft gems
+	Jewelry or Language
+	Jewelry
+	+1 to Jewelers tools checks in downtime.
+	Journalism (Solino Citizen)
+	1d8 + Investigation or Persuasion
+	Gather information.
+	Calligraphers or Language
+	Calligraphers
+	+1 to Research Complication checks.
+	Medical Doctor🏫
+	1d8 + Medicine or Herbalism Kit (WIS/INT)
+	Heal/Protect allies on upcoming quests.
+	Herbalism or Language
+	Herbalism
+	You gain 1 Medical Pouch at the start of each downtime.
+	Performer🏫
+	1d8 + Performance or Musical Instrument (CHA/DEX)
+	Gain Inspiration.
+	Musical Instrument
+	Musical Instrument
+	+1 to Charisma checks in downtime.
+	Poisoner
+	1d8 + Medicine or Poisoners (INT)
+	Learn poison recipes and gain poisons. 
+	Poisoners or Herbalism
+	Poisoners or Herbalism
+	Gain +1 to Poisoner tools checks in downtime
+	Priest🏫
+	1d8 + Religion + Cleric and Paladin levels.
+	Gaining followers and downtime buffs.
+	Language
+	Celestial or Infernal
+	Gain +2 followers each week.
+	Sculptor
+	1d8 + Mason’s (STR) + Glassblower’s (CON) + Potter’s (WIS)
+	???
+	Masons, Glassblowers, or Potters
+	Masons, Glassblowers, or Potters
+	Gain +1 to Masons, Glassblowers, and Potters' checks in downtime.
+	Smith
+	1d8 + Smith’s Tools (STR/WIS)
+	Metals.
+	Smiths or jewelers
+	Smiths
+	+1 to Smiths tools checks in downtime.
+	Spy 🐱‍👤
+	1d10 + Acrobatics or Insight.
+	Reduce bounty costs and do research
+	Disguise Kit or Language
+	Disguise Kit
+	+1 to checks to resist gaining heat.
+	Stablehand
+	1d8 + Animal Handling
+	Train and tame animals
+	Herbalists or Land Vehicles
+	Herbalists
+	+1 to checks to Train or Tame creatures in downtime.
+	
+
+
+
+
+
+
+
+Tailor
+	1d8 + Leatherworkers (DEX) or Weaver’s (DEX)
+	Make weaving checks and gain enchanted threads
+	Leatherworkers or Weaver’s Tools
+	Leatherworkers or Weaver’s
+	Gain +1 to Leatherworker or Weaver tools in downtime.
+	Teacher🏫
+	1d8 + a Tool with INT, WIS, or CHA
+	Learn tools and languages faster.
+	Any Artisan tool
+	Any Artisan tool
+	Tools require one less week to learn.
+	The Docks
+	1d8 + Navigator’s Tools + Water Vehicles (WIS/CHA)
+	Rare material offers.
+	Navigators or Sea Vehicles
+	Navigators
+	5% discount on any boat purchases.
+	Theft🏫🐱‍👤
+	1d10 + Thieves Tools (DEX) (Pursuing Burglary may incur unforeseen dangers.)
+	Cash and magic items.
+	Thieves tools or forgery
+	Thieves tools
+	+1 to Thieves Tool checks in downtime.
+	Tinkering
+	1d8 + Tinker’s Tools (INT/DEX)
+	Create inventions.
+	Tinkers or Gunsmiths
+	Tinkers
+	+1 to Tinkers tools in downtime.
+	Tour Guide
+	1d8 + Cobber’s (Cha) or Land Vehicles (Wis)
+	???
+	Land Vehicles
+	Cobblers or Vehicles
+	Gain +1 to Cobblers and Land Vehicles checks in downtime.
+	Utraba and Jungos’ Appraisal Shop
+	1d8 + Insight or History (Appraisals)
+1d8 + Deception or Persuasion (Loans)
+	Random bullshit.
+	Calligraphy or Forgers
+	Forgers
+	+1 to Persuasion and Deception checks in downtime.
+	
+
+
+
+🐱‍👤 - Denotes a criminal activity.
+🏫- Denotes an override or requirement of use of a specialty facility. 
+
+
+Rare Appraisals (Jungos’ Appraisal Shop) -
+To get a shot at snagging a unique customer, a character can spend downtime by raising the notoriety and branding of Jungo and Utraba: Appraisals and Loans. Make a Persuasion check, and add the totals up until 100. A character working there can spend their downtime by rolling 1d100, and if they roll equal to or lower than the Branding total, they encounter a Rare Appraisal, which can vary in quality.
+
+
+Additionally, after reaching over 100 on branding, a character can continue developing the brand. With additional persuasion checks, characters can restart the d100 counter (carrying over anything over 100 from the previous), and attempt for even more valuable artifacts. This does not erase the previous work, as characters working here can still roll for rare appraisals from previous tiers, which after reaching 100 on branding will guarantee an encounter.
+
+
+Franchising (Taxi, Landlord) - 
+A character who reaches Tier 3 in Taxi/Landlord can purchase additional carts/homes to increase the profitability of their Franchise. Starting a franchise requires different things for Taxi and Landlord. While you have a Franchise your workers produce GP for you without requiring your downtime. Roll the Wage Die of each worker/tenant + your Tier in that job each week, you get half the GP rolled as the rest goes to wages and expenses. 
+
+
+ Example: Tier 5 Landlord with 4 rooms = (4d4+5)/2. Reduced by 10% if out of Lake Solino
+
+
+Taxi Franchising. To start a Franchise, the player must purchase a stable, which costs 500gp and takes 2 weeks to build. A stable can hold 4 horses, and a player can build a maximum of 4 stables per town. Once purchased, the player can purchase additional horses and either wagons or carriages. If you purchase a Wagon, your new workers produce 1d4 + 1 additional GP per week, if you purchase a Carriage they produce 1d6 + 2 additional GP per week. 
+
+
+Landlord Franchising. To start a Franchise, the player must own at least two homes in town (See Buying a Home). You can rent out the rooms in the houses, for each room in a house you have that you are not living in, your properties produce 1d4 in wages per week. A player cannot own more than 4 homes in a single town.
+
+
+Both Taxi and Landlord passive wages can be upgraded through spending their downtime working that job. When upgraded, the wage die increases by a step, using the chart below:
+
+
+Taxi Wages
+	Landlord Wages
+	1d4+1
+	1d4
+	1d6+2
+	1d6
+	1d8+3
+	1d8
+	1d10+4
+	1d10
+	1d12+5
+	1d12
+	Wages cannot be improved beyond a d12.
+
+
+Expanding beyond Lake Solino. A player whose franchise has reached its maximum in Lake Solino can expand elsewhere. To do so, they must purchase new stables/houses in a different town, and the wages gained from workers in other towns is reduced by 10%. 
+
+
+Work Complications (Theft, Forgery, Spy, and Gambling) - 
+Crime has the potential to go very poorly while spending downtime making money through these sources. Along with the wage die and potential d100 rolled, Thieves, Gamblers, Spies and Forgers must also roll a Stealth Check for Theft, Deception Check for Gambling, or Investigation Check for Forgery, Disguise Kit(Cha) for Spy with the DC being dependent on your character’s tier in the job. Failing the roll grants the character Heat (depending on how poorly they failed by. Below are the DCs and effects of Heat.
+
+Tier 1 - DC 10
+Tier 2 - DC 13
+Tier 3 - DC 16
+Tier 4 - DC 19
+Tier 5 - DC 22
+Tier 6 - DC 25
+Tier 7 - DC 28
+Tier 15 - DC 30 
+Tier 30 - DC 32
+
+
+🏫 - Members of the Criminal Den have reduced DCs.
+
+Failing the DC by 1-5 grants 1 heat, failing by 6-10 Grants 2 Heat, Failing by 11+ grants 3 Heat
+
+1 Heat - You lose 1 Wage Die when working jobs.
+2 Heat - You lose half of your GP when rolling for jobs and do not roll on the d100 table.
+3 Heat - You are arrested. You can do 1 of the following actions in downtime to then be able to leave jail. Upon exiting jail, heat is reset to 0.
+* You can pay your Bail,
+* Work off your crime/debt, 
+* attempt to escape (Stealth Check)/talk your way out of it (Persuasion Check). Failing this check doubles your Bail cost, or adds 2 weeks to work off your crime/debt. 
+
+
+When you are arrested, you gain one Infamy. Infamy cannot be reduced through any means. For each point of Infamy you have, the price of bail is doubled, the weeks in prison are increased by 1, and the escape DC increases by 2. Infamy cannot be removed. 
+
+
+Infamy Scale
+	Infamy
+	Bail Price (gp)
+	Weeks in Jail/Community Service
+	Escape DC
+	0
+	150
+	2
+	15
+	1
+	300
+	3
+	17
+	2
+	600
+	4
+	19
+	3
+	1200
+	5
+	21
+	4
+	2400
+	6
+	23
+	5
+	4800
+	7
+	25
+	6
+	9600
+	8
+	27
+	
+
+To remove Heat, one can spend their Downtime to make either a Persuasion Check, Insight check, or an Investigation Check of DC 15/20, removing 1/2 points of heat on a success.
+
+
+Crafting -
+Characters can spend their downtime crafting. When they do so, they follow the specific rules of the item they are crafting. For the rules, DCs, requirements, and ingredients needed see the document below for the rules for each type of crafting:
+
+
+Crafting Document
+
+
+In order to craft something, a character must have the required artisan tool proficiency. More specific crafting rules follow.
+
+
+If you surpass a Difficulty Threshold (DT) with a check, you can carry that progress over to a different item, as long as the check is the same, and you have the materials for that additional item.
+
+
+If an item has a crafting DC and you do not roll above the DC for crafting an item, you make half progress on crafting it.
+
+
+If a feature or ability in downtime requires you to have proficiency in a tool, you must also have the tools required on your character and be actively using them. You cannot use multiple tools at the same time unless a specific feature requires you to have multiple proficiencies, such as combining magic items or alloying metals, in which case you can benefit from the bonuses of one of the tools being used, but not multiple.
+
+
+Passive Crafting -
+A character can spend their free time crafting Potions, Poisons, Consumable Inventions, Meals, Gemcraft or Consumable Magic Items. 
+
+
+Passive Crafting Bonus
+When done in this way, you do not need to roll, instead you add only your Proficiency Bonus + Ability Score + Bonuses from tools or items. You cannot benefit from buildings (other than their Passive Crafting Bonuses, which are listed in the building description) when crafting in this way. You must expend the materials and crafting cost when you start crafting the item and must still meet all its requirements, such as spell slots, tool proficiencies, etc.
+
+
+Passive Crafting DC
+For crafting that has Crafting DCs (Potions, Poisons, Inventions, etc), you must meet the crafting DC by calculating your passive crafting DC. This is 8 + Proficiency Bonus + Ability Score + Bonuses from tools or items. If you do not, your bonus is halved for this crafting (rounded down, minimum 0).
+
+
+Fabricate and Mass Crafting -
+A character mass crafting multiple copies of a type of item with the intent to sell has some limitations. Due to the market, a character can sell up to 30 instances of one type of item (Platemail and Breastplate are considered different items) per year, this limitation is only for items listed in the PHB. To buy the raw materials to cast fabricate, it requires 10% of the item’s original value. Selling items made with fabricate have less value, with their sell value being 25% of their original value. A Character can spend their downtime crafting mundane items, making 70gp worth of progress per downtime, or 10gp with 8 hours of work (done through your free time). To successfully craft an item, you must make GP worth of progress equal to half of that item’s original value.
+
+
+Fabricate cannot be used to make any item that is listed in the Potions, Meals, Plants, Poisons, Gemstones, Inventions, or Magic Items tabs of the Crafting Document, and it cannot be used to craft any item out of a metal higher than common rarity.
+
+
+Casting Fabricate in downtime requires eight hours of time, gathering resources, arranging the supplies, studying designs, and collecting the items.
+
+
+Magic Item Crafting 🏫 🏫 - 
+Creating a Magic Item is a difficult process. It involves learning about the composition of a magic item, what specific materials are required, where to find them and how to put them all together. 
+
+
+Researching a Magic Item can be done in one of two ways, either researching what the Reagents of a specific monster can be used for (which results in potentially multiple known recipes for that specific monster), or researching how to craft an item (which results in a possible reagent that can be used for that item to be known). Anyone can craft a magic item, however, a character without the Spellcasting/Pact Magic Feature makes the crafting check with disadvantage. A character must have the associated tool proficiency to make the crafting check. Unless a character has the ability to cast at least one spell of the level needed to make the item, they cannot add their Proficiency to the crafting check. Spells specifically gained from Races, Feats, or Class Features are sufficient for meeting this requirement; Items, Buildings, Temporary Effects, or other sources do not apply. Characters can collaborate on this process, making it faster, but using up everyone's downtime in the process. Crafting Common magic items do not require a reagent, but having one removes the cost for crafting the item. Once you reach a number totalling the Difficulty Threshold (DT), you create the item. If you reach a number higher than the total DT the number can roll over to a new item, requiring you to have the necessary materials for a second item, so long as the same Tool and modifiers apply.
+
+To craft a magic item, you must spend a week of downtime and roll the respective tool check with its respective ability score as per the crafting document.
+
+
+Have Tool Proficiency - You can make the check.
+Has Spellcasting/Pact Magic - You make the check as normal, otherwise disadvantage.
+Has a spell of the needed level - Add proficiency bonus to the crafting check.
+
+
+Rarity
+	Crafting Threshold (Consumables)
+	Identifying DC
+	Rarity of Component
+	Spell Slot Level Required
+	Common
+	30 (20)
+	10
+	None-CR 4
+	1
+	Uncommon
+	80 (35)
+	12
+	CR 5-10
+	3
+	Rare
+	200 (100)
+	14
+	CR 11-15
+	5
+	Very Rare
+	425 (250)
+	16
+	CR 16-20
+	7
+	Legendary
+	800 (375)
+	18
+	CR 21+
+	9
+	
+
+	
+
+	
+
+	
+
+	Artificers are treated as if they had full casting Progression for crafting Magic Items.
+	
+
+Inventing a Magic Item - 
+Players may have unique ideas for magic items and wish to bring them into the game. First discuss with a GM your idea, how it may function and what your goals are for the item. GMs will then estimate a rarity for the item, at which point you can begin its invention. You first must make an Arcana check, with the DC based on the eventual rarity of the item (Common 10, Uncommon 15, so on). On a success, you’ll be sent a version of the item’s effects to hash out any details. After which time, you can research its crafting recipe like any other magic item, as it now follows all other magic item rules.
+
+
+Writing Spell Scrolls 🏫 🏫 -
+A character that has the Spellcasting or Pact Magic feature can spend their free time and/or downtime creating spell scrolls. To create a spell scroll, you must spend an amount of time and gold, expend the spell slot of the spell, and expend any material components required of the spell. Only one character can work on a scroll, imbuing it with their unique style and magic. The table below shows how long and how much gold each level of spell scroll requires:
+
+
+Spell Level
+	Time
+	Cost
+	Cantrip
+	1 Work Days
+	15gp
+	1st
+	1 Work Days
+	25gp
+	2nd
+	3 Work Days
+	250gp
+	3rd
+	7 Work Days
+	500gp
+	4th
+	14 Work Days
+	2,500gp
+	5th
+	28 Work Days
+	5,000gp
+	6th
+	56 Work Days
+	15,000gp
+	7th
+	112 Work Days
+	25,000gp
+	8th
+	224 Work Days
+	50,000gp
+	9th
+	336 Work Days
+	250,000gp
+	Keep in mind that a week of downtime is 5 days, and you have 2 free time days a week.
+
+
+Potion Brewing 🏫 - 
+Making a Potion is a very specific process. It involves learning the ingredients, gathering them and knowing how to cook them all together. To craft a Potion, the character must possess a set of Alchemist’s Tools or a Herbalism Kit and be proficient with it. Characters can collaborate on this process, potentially aiding the brewing but utilizing both of their downtimes. 
+
+
+To craft a potion a character must make an Alchemist/Herbalism check with Wisdom, if they beat the craft DC they make full progress on the potion, on a failure they make half progress. 
+
+
+To learn a new recipe, a character must make an Alchemist/Herbalism check with INT equal or greater than the rarity DC for crafting it. On a success, they learn that recipe.
+
+
+A character can try and innovate to create a never-before seen potion. This process is difficult and may have unexpected results. A character can spend their downtime trying to make a new potion with an unknown effect, utilizing random materials. Depending on the materials, the potion will be assigned a rarity and follow all other rules of potion recipe learning and crafting.
+
+
+Rarity
+	Cost in additional materials
+	DC learning recipe
+	Brewing DC
+	Brewing Threshold
+	Common
+	0 - 25
+	10
+	10
+	10
+	Uncommon
+	25 - 75
+	15
+	14
+	15
+	Rare
+	75 - 125
+	20
+	18
+	20
+	Very Rare
+	125 - 250
+	25
+	22
+	25
+	Legendary
+	250 - 500
+	30
+	26
+	30
+	
+
+Rare Metal Smithing 🏫 🏫 - 
+Adventurers may obtain metals, which they can use to craft a variety of items. Typical plates are 1’x1’x0.5”, and below detail how many plates of this size are required to forge various items. If a weapon has multiple classifications in the below list, it is considered the most expensive classification possible for that kind of weapon. 
+
+
+A maximum of 2 plates can be forged per week of downtime (using one check for both, or two separate checks if the metals are different rarities or tools). Meaning a Set of Plate can be forged in 4 weeks, or 2 Light Weapons could be forged in a week. In order to forge a rare metal, one must meet its forging requirements and have the required tool proficiency. 
+
+
+Rare Metals can also be Runesmithed and Alloyed at the Power Forge 🏫. Runesmithing requires a character to expend a spell slot of a certain level based on the rarity of the Runesmithed version of a metal (for Artificers, they treat their levels as full caster levels for if they can Runesmith).
+
+
+Researching Runesmithed Metals or Alloys is a Smith Tools (Wis)/History check to see if they can be Runesmithed/Alloyed and a Smith Tools (INT)/History to learn their uses. See the Power Forge for more details. 
+
+
+You cannot benefit from a shield or holding a similar object while crafting since it takes both of your hands, unless you have more than two hands. 
+Weapons
+	Armor
+	Light Weapons - 1
+Other Weapons/Reach - 2
+Two Handed/Versatile Weapons - 3
+Heavy/Special - 4
+
+
+	Studded Leather - 2
+Chain Shirt/Scale Mail - 3
+Breastplate/Half Plate - 4
+Ring Mail/Chain Mail - 5
+Splint - 6
+Plate Mail - 8
+Shield - 2
+
+
+Barding - Doubled per size category over medium, halved per size category below medium (min 1)
+	Ammunition
+	Misc
+	Crossbow Bolts (10) - 1
+Arrowheads (10) - 1
+Sling Ammunition (20) - 1
+Darts (15) - 1
+Ballista Bolts (3) - 1
+Firearm Bullets (10) - 1
+Handcannon Balls (4) - 1
+Throwing Stars (10) - 1
+	Artisan Tools - 2
+Tuning Fork - 1
+Caltrops/Ball Bearings/Hunting Traps - 1
+Foci - 1
+	
+
+Damaged Weapons and armor can be repaired back in Solino. With the appropriate tools, you can either spend gold or additional Metals that match the damaged piece to repair it.
+
+
+Restoring a point of Armor Class to an armor or shield or fixing a -X penalty to a Weapon costs 10(C)/50(UC)/75(R)/125(VR)/200(L) * the number of plates used to make the item. Instead of spending the gold you can spend 1 Plate of the metal to restore two points. If a weapon is fully broken it is assumed that it has a -5 penalty for a weapon or has its AC value reduced to 10 for armors. Fixing weapons or armor takes 1 hour per point to be repaired. 
+
+
+For example, a Mithral Longsword is made of an Uncommon Metal and of 3 plates of metals. Thus it would cost 150gp per point restored to the weapon, or you could spend a plate of Mithral to fix 2 points at a time.
+
+
+
+
+Gemcraft 🏫 -
+Those proficient in Jeweler’s Tools can attempt to refine and alter gemstones to be worth additional gold. To do so they must attempt an Alteration check, the DC is equal to the rarity of the gem + the Alteration DC Increase. This increase starts at +7 to the DC, and is lowered every time it is failed, but so is the amount of money the Gemstone is increased by. See the table below for Alteration DCs and their increases:
+
+
+Value Increase
+	DC Increase
+	+10%
+	0
+	+15%
+	+1
+	+20%
+	+3
+	+25%
+	+5
+	+30%
+	+7
+	The DC also increases based on the current value of the gemstone(s) being altered following the table below:
+Value Range
+	DC Increase
+	0-499
+	0
+	500-999
+	+1
+	1000-2499
+	+3
+	2500-4900
+	+5
+	5000+
+	+7
+	
+
+For example, if a character attempted to Alter a Diamond (DC18), the DC would start at 25 (18+7). If they succeed the value increase would stay at +30%, if they fail the DC would be lowered to 23 and the value increase lowered to 25%. When they finish their Difficulty Threshold, the value they have from the last Alteration attempt is the value the Gemstone is increased by. If the value reaches 0%, the Alteration fails and all progress is lost, but the gemstone remains at its original value. 
+
+
+Gemstones cannot be altered above a certain value, depending on their rarity. Refer to the Crafting Document.
+
+
+In order to passively enhance a Gemstone one must meet its Gem Alteration DC with your Passive Crafting DC. If you exceed the Alteration DC you can alter the Gemstone to a value as long as you continue to beat the DC. For example, someone with a +7 would be able to enhance a Common gemstone up to 20% since the final DC would be 15. 
+
+
+When altering a gemstone you select the GP value of the gemstone(s) you are altering and all gemstone(s) in that grouping are altered in that way.
+
+
+Inventing 🏫 -
+A character can spend their downtime inventing something. If they are making something that hasn’t been created before they must first make a Blueprint for it by making Tinker’s Tools (Intelligence) checks equal to the Blueprint Threshold Total.
+
+
+To craft an invention they must spend their downtime crafting, making a Tools check based on the recipe for the invention. If they pass the DC based on the Complexity, they make full progress towards the Difficulty Threshold. If they fail, they make only half the process toward the Threshold.
+
+
+If you are creating an object using a rare metal, it must first be forged into the proper shape before you can use it as the basis of an invention, still expending the required Special Materials Needed and Gold Cost.
+
+
+Cooking Meals 🏫 🏫 - 
+When you finish a short or long rest you can consume one meal. You can only benefit from the effects of one meal at a time and all meal effects last until the end of your next short or long rest unless they specify otherwise. 
+
+
+During downtime, a chef can prepare meals by making a Cook’s Utensils or Brewer’s Supplies check. If they meet the meal crafting DC they make full progress on the Difficulty Threshold for that meal. If they do not, they make half progress. For each meal produced, they must expend all ingredients. 
+
+
+Learning Recipes 
+A character can use their downtime to attempt to discover new recipes. Recipes require a Cook’s Utensils or Brewer’s Supplies check with Intelligence. When they make this check they decide if they want to try and discover a Common, Uncommon, Rare, Very Rare, or Legendary. If all the recipes of a tier have been discovered, characters get a +1 check to discover higher tiers. Additionally, characters can attempt to make new recipes by combining ingredients.
+
+
+Currently, all Common recipes have been discovered, granting a +1 bonus. 
+Gathering Ingredients 🏫
+Most recipes require special herbs and spices as well as rare fruits and meats to be made. These ingredients must be gathered. See Gardening for herbs and fruits. As for meat, it can be gathered by creatures in the wild. A character must attempt a check with Dexterity, they can add proficiency if they have Cook’s Utensils. They then roll on the table down below. For every 5 higher than the DC of the meat they gain one additional piece of meat, for every 5 lower then they get one less piece of meat.  
+
+
+Creature CR
+	Gathering DC
+	Meat Type
+	0-2
+	10
+	Common
+	3-7
+	14
+	Uncommon
+	8-13
+	20
+	Rare
+	14-19
+	25
+	Very Rare
+	20-30
+	27
+	Legendary
+	
+
+The amount of meat that can be gathered from a creature depends on its size. After a character makes the check to gather meat, roll on the table below to determine how much meat they can gather. Lizardfolk characters always gather 1 additional meat. Gathering meat takes 1 hour.
+
+
+Creature Size
+	Meat Roll
+	Tiny
+	1
+	Small
+	1d2
+	Medium
+	1d4
+	Large
+	1d6
+	Huge
+	1d8
+	Gargantuan
+	1d12
+	
+
+Crafting Stations - 
+Someone crafting inventions, brewing potions and using other tools may enhance their workstations. Characters can purchase a Crafting Station, which provides a bonus to Tool checks of the associated type when crafting in that station if that character is proficient with that Tool. This bonus must be applied before the roll is made. Players can purchase Crafting Stations for Artisan Tools, Poisoner’s Kit, Herbalism Kit, Forgery Kit, or Navigators Tools. The station is too large to use on the road, and requires a certain room space to fit all of the equipment. A character can also upgrade their crafting station to further enhance their trade. A crafting station is built to serve a single person (including simulacrum/disciples/clones) making them useless to others. The exception being Crafting Stations built inside Specialty Facilities, which are listed under those buildings if they have them. Ping a GM when you use a Specialty Facilities crafting station, including where they are from.
+
+
+Crafting Stations can only be used by one person per week.
+
+Each type of Tool proficiency requires their own unique crafting station, like a larger workbench and better tools for Tinker’s Tools, or large looms for Weaver’s Tools.
+
+
+Tier
+	Cost
+	Size
+	Basic (+1)
+	100gp
+	1 Room
+	Intermediate (+2)
+	250gp (350 total)
+	1 Room
+	Advanced (+3)
+	500gp (850 total)
+	2 Rooms
+	Master’s Workstation (+4)
+	1000gp (1850 total)
+	2 Rooms
+	In order to build a Crafting Station, you must have space for it in a Personal Building, such as a house. 
+
+
+Building Facilities and Houses - 
+Characters can invest gold into crafting new structures in town. Examples include a house for characters to live in with more privacy, shops, or specialty facilities (found on the Specialty facility document). Many of these buildings introduce new downtime options.
+
+
+Any bonuses from building must be applied before the roll is made, unless otherwise specificed.
+
+
+Buildings take a number of weeks to be built, but a character with proficiency in Carpenter’s Tools or Mason’s Tools can speed this process up by a week by spending their downtime.
+
+
+Specialty Facilities
+
+
+Buying a House - 
+When a character wishes to move out of the barracks, they can purchase a house within town. Below is the associated cost of each type of home, and their sizes. Players can also buy buildings for business as well, and the below chart will be for those costs as well.
+House Type
+	Size and Rooms
+	Cost (GP)
+	Weeks Required
+	Small
+	30x30’, 2
+	300
+	2
+	Modest
+	45x45’, 4
+	200 (500 total)
+	2 (4 total)
+	Large
+	50x50’ (2 floors), 7
+	500 (1000 total)
+	2 (6 total)
+	Manor
+	75x75’ (2 floors), 10
+	1000 (2000 total)
+	2 (8 total)
+	Mansion
+	100x100’ (3 floors), 20
+	3000 (5000 total)
+	8 (16 total)
+	
+
+Resting 🏫 -
+After returning from a mission, characters may be overwhelmed. During downtime, a character can remove up to 1 point of exhaustion (or a day of resurrection sickness) and still perform other tasks. 
+
+
+Characters can perform one long rest, and one short rest per downtime.
+
+
+Research 🏫 - 
+A character can spend their time researching various subjects. The character declares their intent for their research (an event, person, place, or thing), and then makes an associated check on the subject. Nature may be used for learning about poisonous mushrooms, while History may be used on subjects about ancient wars. Arcana may be used to learn about arcane secrets or creatures. Religion may be used to learn about religious rites or beliefs.
+
+
+Once a creature makes their associated check, they must roll a d100 for a Complication. Complications can be beneficial or detrimental and require additional checks. 
+
+
+Research Check DCs (on average research requests)
+	0-9
+	Nothing new learned
+	10-15
+	Learn something new about the topic.
+	16-20
+	Learn something unknown about the topic
+	21-25
+	Learn something rare about the topic
+	26-30
+	Learn something obscure about the topic.
+	31+
+	Learn nearly everything about the topic.
+	 
+Requesting Bounties -
+As a member of the Red Banners, you can request a bounty quest to send your fellow Red Banners on a quest to retrieve rare materials, fight creatures, and gather loot from them. Based on the rarity or the CR and specification of a creature or rare materials and how many of these items you require, this determines how much it will cost Vasitec to research and pay your fellow Red Banners. Every quest will be open to 5 Red Banners. 
+
+
+It is your job to get your fellow Red Banners interested after the research has been done and once the research is done the quest will be posted. You are only entitled to the thing you request, everything else is an additional payment for the quest goers to have. 
+
+
+Below is the table for pricing based on the specifications mentioned earlier. Note that if you request multiple instances of a thing, each additional item costs only 75% per instance to perform the research. If you request bounties for multiple rarities, the highest rarity value is charged in full. A single bounty can contain a maximum of 25 common nonmetal items and 10 metals. For full breakdown refer to DM requesting bounties to see full breakdown.  
+
+Keep in mind that if you request a bounty with many different items it may be broken down into multiple quests, so that is more viable. 
+
+
+Based on the difficulty of the quest, it will change the ranks that are open for the Red Banners to attend. 
+
+
+Cost of Requesting a Bounty
+	
+
+	Specific Creature Type
+	Specific Creature Type + Additional Requirements
+	Specific Creature
+	Metal (non Runesmithed or alloyed)
+	Seed
+	Common 
+(0-4 CR) 
+	25 gp
+	75 gp
+	125 gp
+	X
+	50 gp
+	Uncommon (5-10 CR)
+	100 gp
+	300 gp
+	500 gp
+	480 gp
+	100 gp
+	Rare 
+(11-15 CR)
+	400 gp
+	1200 gp
+	2000 gp
+	720 gp
+	200 gp
+	Very Rare (16-20 CR)
+	1600 gp
+	4800 gp
+	8000 gp
+	1080 gp
+	400 gp
+	Legendary 
+(21+ CR)
+	6400 gp
+	19200 gp
+	32000 gp
+	1800 gp
+	1200 gp
+	
+
+If the player decides to perform the research themselves to avoid paying Vasitec higher research fees. It can be calculated based on the research points, the discount would apply to the cost of requesting a bounty. If a player were to spend multiple downtimes learning about the target the new research points are halved as it is much more difficult to learn new things. 
+
+
+Generally, research will be tied to the following creature types (with case by case exceptions):
+        Arcana: Ooze, Fey, Construct, Elemental, Aberration
+        History: Humanoid, Giant, Dragons, Aberration, Undead
+        Religion: Celestial, Fiend, Undead, Humanoid
+        Nature: Beasts, Plants, Monstrosities, Elementals
+
+
+Metals will generally be based on the plane of origin.
+
+
+The following discounts apply:
+
+
+Research Points Discount
+	0-9
+	0% discount, nothing is discovered; therefore the next check is not halved. 
+	10-15
+	15% discount
+	16-20
+	30% discount
+	21-25
+	45% discount
+	26-30
+	60% discount
+	31-39
+	75% discount
+	40+
+	90% discount
+	
+
+Training 🏫🏫 - 
+Characters can spend their downtime training on various subjects and abilities. Characters can train to gain proficiency in tools, weapons and languages. Each week of training costs 25gp, and training is completed after that character spends 10 weeks training with one proficiency. This number can be decreased an amount equal to the character’s INT modifier, or in the case of weapon proficiency, their WIS modifier.
+
+
+Learning a Tool/Language = 10 Weeks - INT Mod
+Learning an Instrument/Gaming Set =  10 Weeks - CHA Mod
+Learning a Weapon = 10 Weeks - WIS Mod
+
+
+Another character that has proficiency in that tool, weapon, or language can spend their downtime teaching you, increasing the progress to learn by an additional one. 
+
+
+Gardening & Plant Foraging - 
+Members of the Red Banners are given 4 plots of a garden for their own personal use. On their own, plots do nothing until a Plot Type is purchased and placed in that area. Plot Types and their prices can be found in the Crafting Document. 
+
+
+A player can plant a seed in a Plot they own without requiring any downtime; it must be planted in a plot the same or higher rarity than it. Each week after it is planted, it produces harvests that can be used in crafting. A plant produces 1 harvest, +1 for each rarity above its own. For example, a Common Plant would produce 5 Harvests in a Legendary plot because Legendary is 4 steps above Common.
+
+
+Common Plots can be purchased for gold, but to be upgraded they must be Enriched through manual labor. A character can spend a week of Downtime to Enrich their plot, make a Nature check with INT or WIS. That plot then gains that much progress towards its next level, when it reaches its Threshold, it resets to 0 and the plot upgrades a rarity for no additional cost. A character can also do this in Freetime using 8 hours of time to add their Nature (INT/WIS) bonus to the plot's threshold. 
+
+
+A character who is proficient in Nature gains 2 more plots; a character who is proficient in Survival also gains 2 more plots. 
+
+
+Elemental and Imbued plots can be created by making an Arcana/Religion check instead of Nature to upgrade a Rare plot. This requires 50 points of progress at which point it becomes its new plot type. Elemental and Imbued plots have no rarity and just provide 1 harvest. This can also be done in Freetime.
+
+
+Plants come in three types: Perishable, Non-Perishable, or Other.
+Perishable: These plants must be used this week or they will expire.
+Non-Perishable: After a growth time, you gain one harvest of this plant as an item.
+Other: These plants are special and do something. 
+
+
+Players can forage their surroundings to find interesting plants. A character can spend their downtime to make a Survival or Herbalism (Wis) check, and based on their roll will find various plants. A character will find a plant seed of that rarity upon reaching the required DC, and an additional seed for every 10 above the DC. Refer to the Crafting Spreadsheet for the DCs.
+
+
+Harvesting Reagents -
+You can use Free Time to harvest magical Reagents from the bodies of monsters. Doing so takes 1 hour and requires a check, most commonly Survival, but can sometimes be Tinker’s Tools (Wis) for Constructs, or Masons Tools (Wis) for an Earth Elemental, etc. The DC for Harvesting a Reagent is determined by the CR of the body. Bodies can only have a set number of Reagents harvested from them, also determined by CR. 
+
+
+The DC for Harvesting can be lowered by 2 by attempting an Intelligence skill check, that may be Arcana, History, Nature, or Religion depending on the creature. Once this check is successful or unsuccessful, it cannot be done again and the bodies Harvesting DCs are permanently lowered or cannot be lowered. This check also takes 1 hour to do.
+
+
+If brought back to town, a body begins to decay, losing 1 harvest worth of reagents at the end of each week. A spell like Gentle Repose cannot prevent this decay.
+
+
+Reagent Harvesting
+	Typical CR Range
+	Harvesting DC (Survival)
+	Knowledge DC (INT)
+	# of Possible Materials
+	Common
+	CR 0-4
+	12
+	12
+	1
+	Uncommon
+	CR 5-10
+	14
+	14
+	2
+	Rare
+	CR 11-15
+	16
+	16
+	3
+	Very Rare
+	CR 16-20
+	18
+	18
+	4
+	Legendary
+	CR 21+
+	20
+	20
+	5
+	
+
+Selling - 🏫
+When selling items in town they sell for half their listed price in the PHB/DMG. If an item is made through magic, such as Fabricate, it sells for ¼ of its listed price. A character can sell up to 30 instances of one type of item (Platemail and Breastplate are considered different items, for example) per year. Track sold items if you are planning on mass selling hereDowntime Work
+
+
+Magic items that can be sold on the Free Markets 🏫and sell for a basic price based on their Rarity + the cost of crafting it if you’ve crafted it. These prices are quartered for consumable magic items. Spell Scrolls sell for their crafting cost. See the table below for base prices:
+* Common | 100gp
+* Uncommon | 800gp (+1 Weapons sell for 600gp)
+* Rare | 1500gp (+2 Weapons and +1 Armors sell for 1300gp)
+* Very Rare | 3200gp (+3 Weapons and +2 Armors sells for 3000gp)
+* Legendary | 10000gp
+Unless an item is listed in the PHB, it cannot be sold normally to the void; instead, it must be sold through the Free Markets or to another player (the exception to this being potions of healing which cannot be sold to the void or purchased despite being in the PHB).
+
+
+If you sell a PHB item with a base price of 1000gp or higher, it takes downtime to do. Alternatively, you can hire someone to sell it, costing 10% of the item's base price. If you provide them with a trained animal, it only costs 5%, which takes the animal for the week, the animal must have been tamed by you and be large or larger to qualify. You can sell up to 10 items in one go in this way, provided you don’t hit your selling limit. 
+
+
+Local Shops - 
+Solino is home to many shops that adventurers frequent. Arms Arcana is the town's Magic Item Shop. Players can buy from their inventory (notify when doing so in the buying-selling-trading channel) or ask Arms Arcana to craft items for them. Players must supply the Reagents and crafting cost of the item, and have the recipe known. To do so, the Item then costs less than it would to purchase it outright. For each week you pay Arms Arcana to work on the item, they will make progress towards that item's Difficulty Threshold. While Arms Arcana is working on an item, you or other players may also work on crafting that item. 
+
+
+In order for Arms Arcana to craft an item, you must pay them for at least the Rarity of the item, but you can pay for a higher rarity to make faster progress. If you want, you can also pay the Average Cost in the table below to have them fully craft the item for you in the number of weeks listed in the table. Weapons and Armor can be crafted faster and cheaper than normal items, provided you provide Arms Arcana with the reagents needed to craft them. Some items Arms Arcana may not be able to work on, such as items requiring certain class features or alignments to craft. 
+
+
+Rarity
+	Cost (GP) per Week
+	Progress Per Week
+	Avg Cost
+	Num of Weeks
+	Common
+	50
+	10
+	150
+	3
+	Uncommon
+	175
+	20
+	700
+	4
+	Rare
+	300
+	30
+	2100
+	7
+	Very Rare
+	750
+	40
+	8250
+	11
+	Legendary
+	1500
+	50
+	24000
+	16
+	Weapon Enchantments
+	Cost (GP) per Week
+	Progress Per Week
+	Avg Cost
+	Num of Weeks
+	+1 Weapon
+	150
+	40
+	300
+	2
+	+2 Weapon/+1 Armor
+	250
+	50
+	1000
+	4
+	+3 Weapon/+2 Armor
+	500
+	75
+	3000
+	6
+	
+Additionally, if you provide them with something that would reduce the enchantment cost (like Mithral), the initial crafting cost is reduced by 50%, and the cost per week is reduced by 25%.
+
+Warrior’s Creed is known for their exotic weapons and rare metal pieces. Again, notify the buying-selling-trading channel when purchasing one of their items. 
+
+
+Xander’s fine gems stocks rare gemstones which can be used in crafting, spell materials or other purposes. Players can request Xander to stock new types of Gemstones in his shop, and for a start-up fee he will do so. Depending on the rarity of the gem, the start-up cost changes.
+Common - 500gp, Uncommon - 1000gp, Rare - 1500gp, VR - 3000gp, Legendary - 10000gp.
+These gems will then also be restocked at the start of the month alongside other shop inventories. Only gems from the Material plane are stocked at Xander’s Gems.
+
+
+Galdvig’s Gearworks is now open for business. Galdvig stocks random inventions at the start of each month. In addition, a character can ask to have an invention crafted for them. You must provide the crafting cost and any material components, and then Galdvig will spend a week working on it. You must hire him at least the tier of the invention to gain progress. 
+
+
+Complexity
+	Cost (GP) per Week
+	Progress Per Week
+	Simple
+	50
+	10
+	Innovative
+	85
+	20
+	Complex
+	125
+	25
+	Groundbreaking
+	200
+	30
+	
+
+You can buy the following common metals from Lake Solino’s local smith shop:
+
+
+Iron 5gp/plate
+Copper 10gp/plate
+Silver 15gp/plate
+Gold 50gp/plate
+Platinum 100gp/plate
+
+
+All shops get new stock at the start of the month.
+
+Additionally, the South Quezzilian Trade Fleet makes rare appearances at port, providing limited but rare stock on hard to obtain items. Be on the lookout for their arrival in the Lore Announcements page.
+
+
+Acquiring Spells in Downtime -
+Characters with levels in Wizard can attempt to acquire new spells that they don't already have by spending a week of downtime. Characters can do this in two different ways. The first is to travel to Mycerion or another area with archives of spells and copy the spells there, or attempt to formulate the spells themselves using other books for reference. 
+
+
+Travelling to an archive takes a full week of downtime, including Free Time, and allows you to copy as many spells as you wish while there. Gaining access to those spells costs gp, equal to the amounts listed below, per spell you access. 
+
+
+To formulate your own spells, you can spend a week of downtime to make an Arcana check. The Threshold for formulating the spell and adding it to your spell book is in the table below. If you are not a high enough level in Wizard equal to the required level, then you gain a penalty to your roll equal to the difference in level x3. Effects that allow you to reduce the cost of copying spells reduce the Threshold of copying by half that amount.
+
+
+In either case, you must also expend the normal cost for copying a spell into your spellbook.
+Spell Level
+	Archive Cost
+	Min Wizard Level
+	Threshold
+	1st
+	25gp
+	1
+	20
+	2nd
+	50gp
+	3
+	30
+	3rd
+	100gp
+	5
+	40
+	4th
+	200gp
+	7
+	50
+	5th
+	500gp
+	9
+	75
+	6th
+	750gp
+	11
+	100
+	7th
+	1500gp
+	13
+	150
+	8th
+	3000gp
+	15
+	250
+	9th
+	5000gp
+	17
+	500
+	
+
+Current Archives
+Archive Name
+	Available Spells
+	Mycerion
+	Evocation, Transmutation, Abjuration, and Divination spells up to 6th level.
+	
+
+
+
+Casting Spells in Downtime - 
+When you cast a spell in downtime, you must expend the spell slot. Spells that take more than 1 minute to cast take 10 minutes of downtime, or their casting time if longer than that. If a spell can be made permanent by casting it for X amount of time, you only need to expend that spell slot once for that week. 
+
+
+Disciples and Simulacra -
+When a character reaches level 11 they can hire a Disciple to help them around town. Disciples are recruited from the player's activities thus far and can be an ally, a character from their backstory, or a friend met during a previous quest.
+
+
+A Disciple costs 3000gp to hire and once hired it gains all your current ability scores and proficiencies (including expertises) but has 1 lower Proficiency Bonus. A Disciple can start at Tier 7 in one job of your choice that you are also at least T7 in, otherwise they can start in any tier at a job you have at least 1 tier in. If you don’t have a T7 job or any jobs, then you can upgrade the Disciple later to gain that when you gain it. The disciple can take a downtime action once a week at your request. The disciple stats cannot increase, but a player can take 1 week and 500gp training them to update to your current stats. Disciples cannot gain class features, feats, racial features, or increase downtime systems including Job Tiers, training, learning tools, or modifying spells. Any effect in downtime that would affect the Disciple, affects you instead i.e Complications, Uranium, etc.
+
+
+Disciples do not have class features but can use and attune to magic items and make use of downtime facilities. Disciples can do one downtime each week at the request of their mentor. Disciples cannot use free time. You only ever get one Disciple.
+
+
+A character that has a simulacrum in downtime can make use of it to do downtime activities. The simulacra have all the downtime statistics (Job Tier, Job Tier Bonuses, Building Bonuses, etc) as you from when they were created. Simulacra are unable to learn new things. This means they cannot increase your Job Tier when working a job (nor can their own Job Tier increase once it is created), use downtime to research, learn new recipes, or Train. Simulacra require monitoring from their creator and as such cannot make use of free time. Simulacra cannot attune to magic items.
+
+
+Floating Proficiencies and Attunements -
+Some class features, racial features, or magic items grant you a proficiency that can be moved around. During downtime, once you make use of this floating proficiency, it is locked in for the week and cannot be changed to a different proficiency for the week. Some examples include:
+* Astral Knowledge. Once used in downtime, it cannot be changed until the next week.
+* All Purpose Tools. Once used to grant a tool proficiency in downtime, it cannot be changed to a different tool until the next week. 
+* Living Gloves. Once used to gain a proficiency, it cannot be changed, even if unattuned and attuned to during that week of downtime. 
+This list is not exhaustive. 
+
+
+Once a magic item has been used by a creature in downtime it cannot be used by another creature in downtime, nor can it be taken on a quest unless it is taken by the creature that used it in downtime. 
+
+
+________________
+
+
+
+
+Summary of the Downtime Week - 
+With every system in Downtime having its own rules and complications, here is a quick summary for what can be done and when. Each Character receives 1 week of downtime and 2 Work Days; which are 8 hours each. 
+These lists are not all-encompassing and other actions may be taken at GM discretion.
+________________
+
+
+Actions that can be done as a part of downtime include:
+- Working a Job
+- Doing Research
+- Crafting a Magic Item
+- Researching a Magic Item/Reagent
+- Smithing Metals
+- Making a Blueprint
+- Cooking/Brewing a Specialty Meal
+- Crafting an Invention
+- Training in Weapons/Tools/Languages
+- Enhancing Gemstones
+- Learning Potion/Poison/Meal Recipes
+- Training/Taming Animals
+- Foraging for Plants
+- Resting to remove 1 extra point of Exhaustion
+- Anything that specifically says “you can spend your downtime” to do that action
+- Any action that takes more than 2 days, such as travel.
+
+
+When using your Week of Downtime you can make use of any buildings noted in the Specialty Facility document.
+________________
+
+
+Actions that can be done within a work day include:
+- Writing a Spell Scroll
+- Copying Spells to your Spellbook (Wizard)
+- Crafting Poisons
+- Crafting Potions
+- Crafting Consumable Inventions
+- Crafting Consumable Magic Items
+- Gathering Reagents from a body for Magic Items 
+- Gathering Meat from a body for Meals
+- Anything that specifically denotes taking a set amount of hours to complete (like some spells)
+
+
+During downtime, you cannot benefit from any building's T1-4 features unless specifically noted. 
+________________
+
+Actions that require no downtime/work days spent:
+- Harvesting Crops
+- Planting Seeds
+- Speaking with other Red Banners
+- Selling/Buying Items
+- Buying/Upgrading a Building/Facility
+- Removing 1 Point of Exhaustion
+- Giving another Character Bardic Inspiration through the Garden of Sound
+- Casting spells (that has a casting time of less than 10 minutes)
+- Using magic items that take less than 10 minutes to use. (IE use alchemy jug, plant shrub in pot of awakening etc)
+- Preparing a Mining Expedition through the Mining Office
+- Requesting an item from The Trading Fleet to be delivered. 
+- Requesting a bounty unless you are doing research for that bounty. 
+
+
+
+
+Glossary
+
+
+Downtime. A character gets one Downtime action each week. Anything that specifies it uses Downtime uses this one action. Downtime resets each week, if you don’t use your action it is lost once downtime rolls over.
+
+
+Free Time. Characters get two blocks of 8 hours each week that they can spend doing minor tasks. If an action specifies it tasks a certain amount of time, it takes that time from Free Time. If you ever go over these 16 hours of Free Time, you lose your downtime action for that week.
+
+
+Difficulty Threshold. Some tasks are done over an extended period. To track completion of these tasks, a Difficulty Threshold is used. A Difficulty Threshold (DT) is a number that must be reached over multiple rolls. Every time you do that task you roll and add your result to the DT, when the DT reaches its Threshold the task is completed. In most cases when your DT is reached, any additional progress is carried over to a new DT if you wish. 
+
+
+Passive Crafting Bonus. Your passive crafting bonus is equal to Ability Score + Proficiency + Other Bonuses. Whenever you passively craft something you add your Passive Crafting Bonus to the Difficulty Threshold of the item you are crafting.
+
+
+Passive Crafting DC. Your passive crafting DC determines your skill at crafting things and determines what you can successfully passively craft. Your Passive Crafting DC is 8 + Ability Score + Proficiency + Other Bonuses. If your Passive Crafting DC is equal to or higher than an item's Crafting DC you can add your full Passive Crafting Bonus to the item's Difficulty Threshold, otherwise you only add half (rounded down). 
+
+
+Heat. Heat can be gained through various actions that draw the attention of law enforcement to your character. Heat has debuffs for each Heat you have and when you reach three heat you go to jail. See Work Complications for more details.
