@@ -76,8 +76,8 @@ controls.enableDamping = true
 // Directional Light
 const directionalLight = new THREE.DirectionalLight(0x404040, 100)
 scene.add(directionalLight)
-const light = new THREE.AmbientLight( 0x404040 ); // soft white light
-scene.add( light );
+const light = new THREE.AmbientLight(0x404040); // soft white light
+scene.add(light);
 /************
  ** MESHES **
  ************/
@@ -86,8 +86,10 @@ const cubeGeometry = new THREE.BoxGeometry(0.5, 0.5, 0.5)
 const sphereGeometry = new THREE.SphereGeometry(0.5, 32, 16)
 const diamondGeometry = new THREE.SphereGeometry(0.5, 0.5, 0.5)
 const torusgeometry = new THREE.TorusKnotGeometry(0.5, 0.2, 100, 16);
+let lastTerm = "";
+let lastTermCombo = 1
 let objectList = [];
-const drawCube = (height, color) => {
+const drawCube = (height, color, sameAsLast) => {
     // Create cube material
     const material = new THREE.MeshLambertMaterial({
         color: new THREE.Color(color),
@@ -108,11 +110,17 @@ const drawCube = (height, color) => {
     cube.rotation.z = Math.random() * 2 * Math.PI
     cube.rotation.y = Math.random() * 2 * Math.PI
 
+    if (sameAsLast) {
+        objectList.splice(objectList.length, 1)
+        cube.scale.set(lastTermCombo, lastTermCombo, lastTermCombo)
+    }
+
+
     // Add cube to scene
     scene.add(cube)
     objectList.push(cube)
 }
-const drawSphere = (height, color) => {
+const drawSphere = (height, color, sameAsLast) => {
     // Create cube material
     const material = new THREE.MeshLambertMaterial({
         color: new THREE.Color(color),
@@ -127,11 +135,16 @@ const drawSphere = (height, color) => {
     sphere.position.z = (Math.random() - 0.5) * uiObject.spread
     sphere.position.y = height - 10
 
+    if (sameAsLast) {
+        objectList.splice(objectList.length, 1)
+        sphere.scale.set(lastTermCombo, lastTermCombo, lastTermCombo)
+    }
+
     // Add cube to scene
     scene.add(sphere)
     objectList.push(sphere)
 }
-const drawDiamond = (height, color) => {
+const drawDiamond = (height, color, sameAsLast) => {
     // Create cube material
     const material = new THREE.MeshLambertMaterial({
         color: new THREE.Color(color),
@@ -151,11 +164,16 @@ const drawDiamond = (height, color) => {
     sphere.rotation.z = Math.random() * 2 * Math.PI
     sphere.rotation.y = Math.random() * 2 * Math.PI
 
+    if (sameAsLast) {
+        objectList.splice(objectList.length, 1)
+        sphere.scale.set(lastTermCombo, lastTermCombo, lastTermCombo)
+    }
+
     // Add cube to scene
     scene.add(sphere)
     objectList.push(sphere)
 }
-const drawTorus = (height, color) => {
+const drawTorus = (height, color, sameAsLast) => {
     // Create cube material
     const material = new THREE.MeshLambertMaterial({
         color: new THREE.Color(color),
@@ -174,6 +192,11 @@ const drawTorus = (height, color) => {
     sphere.rotation.x = Math.random() * 2 * Math.PI
     sphere.rotation.z = Math.random() * 2 * Math.PI
     sphere.rotation.y = Math.random() * 2 * Math.PI
+
+    if (sameAsLast) {
+        objectList.splice(objectList.length, 1)
+        sphere.scale.set(lastTermCombo, lastTermCombo, lastTermCombo)
+    }
 
     // Add cube to scene
     scene.add(sphere)
@@ -205,11 +228,11 @@ const uiObject =
     spread: 10,
     layerSpacing: 100,
     type: "cube",
-    term1: "downtime",
+    term1: "dorian",
     term1Color: new THREE.Color(),
-    term2: "roll",
+    term2: "portrait",
     term2Color: new THREE.Color(),
-    term3: "bonus",
+    term3: "paint",
     term3Color: new THREE.Color()
 }
 
@@ -311,7 +334,7 @@ cubeFolder
 *******************/
 let sourceText
 let parsedText, tokenizedText
-loader.load("Specialty Facilities.txt", function (text) {
+loader.load("Dorian.txt", function (text) {
     sourceText = text;
     tokenizeSourceText()
     updateSearchTerms()
@@ -327,41 +350,55 @@ const tokenizeSourceText = () => {
 }
 
 // Find searchTerm in tokenizedText
-const findSearchTermInTokenizedText = (term, color) => {
+const findSearchTermInTokenizedText = (term, color, searchTerm) => {
     // Use a for loop to go through the toknizedText array
     for (let i = 0; i < tokenizedText.length; i++) {
         // If tokenized Tex[i] matches our searchTerm, then we draw a cube
+        let sameAsLast = false;
+        if (tokenizedText[i] == uiObject.term2 || tokenizedText[i] == uiObject.term1 || tokenizedText[i] == uiObject.term3) {
+            sameAsLast = lastTerm != tokenizedText[i];
+            if (sameAsLast) {
+                lastTerm = tokenizedText[i];
+                lastTermCombo = 1;
+            }
+            else {
+                lastTermCombo += 0.5;
+            }
+            console.log(lastTermCombo + " | " + lastTerm);
+        }
+
         if (tokenizedText[i] === term) {
             // convert i into height, which is a value between 0 and 20
             const height = (uiObject.layerSpacing / tokenizedText.length) * i * 0.2
-
+            console.log("Found Token Term")
+            
             // call drawCube function 100 times using converted height value
             for (let a = 0; a < uiObject.amount; a++) {
                 if (uiObject.type == "cube")
-                    drawCube(height, color)
+                    drawCube(height, color, !sameAsLast)
                 else if (uiObject.type == "sphere")
-                    drawSphere(height, color)
+                    drawSphere(height, color, !sameAsLast)
                 else if (uiObject.type == "diamond")
-                    drawDiamond(height, color)
+                    drawDiamond(height, color, !sameAsLast)
                 else if (uiObject.type == "torus")
-                    drawTorus(height, color)
+                    drawTorus(height, color, !sameAsLast)
             }
         }
     }
 }
 
 const updateSearchTerms = () => {
-    findSearchTermInTokenizedText(uiObject.term1, uiObject.term1Color)
-    findSearchTermInTokenizedText(uiObject.term2, uiObject.term2Color)
-    findSearchTermInTokenizedText(uiObject.term3, uiObject.term3Color)
+    findSearchTermInTokenizedText(uiObject.term1, uiObject.term1Color, 0)
+    findSearchTermInTokenizedText(uiObject.term2, uiObject.term2Color, 1)
+    findSearchTermInTokenizedText(uiObject.term3, uiObject.term3Color, 2)
     term1ID.innerHTML = uiObject.term1;
-    term1ID.style.color = "#"+uiObject.term1Color.getHexString();
+    term1ID.style.color = "#" + uiObject.term1Color.getHexString();
     console.log(uiObject.term1Color.getHexString())
     console.log(term1ID.style.color)
     term2ID.innerHTML = uiObject.term2;
-    term2ID.style.color = "#"+uiObject.term2Color.getHexString();
+    term2ID.style.color = "#" + uiObject.term2Color.getHexString();
     term3ID.innerHTML = uiObject.term3;
-    term3ID.style.color = "#"+uiObject.term3Color.getHexString();
+    term3ID.style.color = "#" + uiObject.term3Color.getHexString();
 }
 
 
